@@ -1,6 +1,6 @@
 print("start of claims_analysis.py")
 def analyze_claims():
-    print("Analyzing claims data...")
+    print("Analyzing claims.. data...")
     # Placeholder for claims analysis logic
     claims = [100, 200, 150, 300, 250]
     total_claims = sum(claims)
